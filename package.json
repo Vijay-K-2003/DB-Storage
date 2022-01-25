@@ -1,0 +1,30 @@
+{
+  "name": "db-storage",
+  "version": "1.0.0",
+  "description": "A Learning Repository for Database Storage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vijay-K-2003/DB-Storage.git"
+  },
+  "keywords": [
+    "mongodb",
+    "database",
+    "storage"
+  ],
+  "author": "Vijay Karanjkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vijay-K-2003/DB-Storage/issues"
+  },
+  "homepage": "https://github.com/Vijay-K-2003/DB-Storage#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8",
+    "nodemon": "^2.0.15"
+  }
+}
